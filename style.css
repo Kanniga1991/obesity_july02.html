@@ -1,0 +1,121 @@
+
+
+
+
+body{
+   
+background-image: linear-gradient
+(to left bottom,
+ #fb9fe2, #ff97b8, #ff9f83, #ffb74f,
+  #e0d431, #b9e248, #8aee6b, #41f794,
+   #30f9b0, #31fbc8, #44fbdc, #5ffbec);;
+}
+.vertical {
+    margin-top: 20px;
+    border-left: 2px dashed #39A2DB;
+    height: 800px;
+    position:absolute;
+    left: 32%;
+    background-color: white;
+    margin-right: 10px;
+}
+
+    .BannerBg
+    {
+        width : 80%;
+        display : flex;
+        background-color: white;
+    }
+    .leftportion
+    {
+        background-color: white;
+        width: 40%;
+        margin-top: 20px; 
+        
+    }
+    .center
+    {
+        text-align: center;
+    }
+    .bluepara
+    {
+        font-size: 2rem;
+        color: #0000ff;
+    }
+    .aquapara
+    {
+        font-size: 15px;
+        color: #2ae4e4;
+        
+        
+    }
+    .iconice
+    {
+        height: 10vh;
+        padding-left: 2rem;
+        
+    }
+    .iconfries
+    {
+        padding-left: 1rem;
+        
+    }
+    .icondonut
+    {
+        height : 10vh;
+    }
+    .iconsoda
+    {
+        height: 10vh;
+    }
+    .iconpizza
+    {
+        height : 10vh;
+        position: static;
+        padding-left: 10px;
+    }
+    .rightportion
+    {
+        background-color: white;
+        width:40% ;
+        margin-top: 20px;  
+    }
+    .diabetes
+    {
+        font-size: 1.8rem;
+        color: #2ae4e4;
+        margin-left: 30px;
+    }
+    .num
+    {
+        font-size: 1.8rem;
+        color: gold;
+        margin-left: 100px;
+    }
+    .people
+    {
+        font-size: 1.4rem;
+        color: gold;
+    }
+    .image
+    {
+         height: 10vh;
+         width: 8vh;
+        
+    }
+    .final
+    {
+        margin-top: 41px;
+        margin-left: 15px;
+    }
+    .flex{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.twolines
+{
+color:#2ae4e4 ;
+font-size: 1rem;;
+margin-left: 100px
+}
